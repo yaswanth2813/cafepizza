@@ -1,0 +1,120 @@
+
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.view-here {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+
+.container-one {
+    background-image: url(https://as2.ftcdn.net/v2/jpg/03/23/62/87/1000_F_323628715_FdXxzqMJk1qdSsUnApoxjg9aTGDZ8tSD.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.image {
+    height: 100px;
+    width: 100px;
+}
+
+.wcu-card {
+    color: white;
+    background-image: radial-gradient(#3F9322, #101110);
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.heading-menu {
+    font-size: 20px;
+}
+
+.w-100 {
+    border-radius: 5px;
+}
+
+.menu-section {
+
+    height: 100vh;
+}
+
+.card {
+    border-radius: 10px;
+
+}
+
+.pizza-heading {
+
+
+    color: white;
+    font-size: 100px;
+}
